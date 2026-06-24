@@ -1,0 +1,9 @@
+.DS_Store
+.swift-module-cache/
+
+# Temporary files created by ImageIO/HEIC encoding
+.*.heic-*
+
+# Generated output
+*.heic
+*.png
